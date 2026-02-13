@@ -4,4 +4,4 @@ I am Julcarl Selma. Software Engineer
 ### Chronostep Github Account
 ![JCs3lma's GitHub Stats](https://github-readme-stats-six-tau-97.vercel.app/api?username=JCs3lma&show_icons=true&theme=onedark&include_all_commits=true&cache_seconds=86400&role=OWNER,ORGANIZATION_MEMBER)
 
-<img src="https://github-readme-stats-git-master-airopis-projects.vercel.app/api?username=JCs3lma&count_private=true&show_icons=true&locale=en&theme=onedark&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />
+<img src="https://github-readme-stats-git-master-airopis-projects.vercel.app/api?username=JCs3lma&count_private=true&show_icons=true&locale=en&theme=onedark&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />
